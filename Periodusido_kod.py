@@ -37,7 +37,7 @@ plt.xlabel(r'$\sqrt{m}$ ($\sqrt{g}$)', fontsize=font + 3)
 plt.ylabel(r'T (s)', fontsize=font + 3)
 
 # Ábrázolás címe
-plt.title(r'A periódusidő a tömeg gyöke ellenében', fontsize=font + 3)
+plt.title(r'A periódusok ideje a tömeg gyöke ellenében', fontsize=font + 3)
 
 # Rács bekapcsolása
 plt.grid()
