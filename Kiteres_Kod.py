@@ -111,7 +111,7 @@ plt.xlabel(r't (s)', fontsize=font + 3)
 plt.ylabel(r'y (m)', fontsize=font + 3)
 
 # Ábrázolás címe
-plt.title(r'A kitérések hullámfüggvénye', fontsize=font + 3)
+plt.title(r'A kitérések az idő függvényében', fontsize=font + 3)
 
 # Rács bekapcsolása
 plt.grid()
